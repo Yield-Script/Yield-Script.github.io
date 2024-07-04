@@ -1,1 +1,1 @@
-# Yield-Stock.github.io
+# YieldStock.github.io
